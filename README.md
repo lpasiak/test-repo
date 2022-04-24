@@ -7,3 +7,5 @@ So that I can learn how git works.
 1234567890
 
 ## Adding a new commit from another branch
+
+## Editing REAME.file from the site to fetch it in a terminal
